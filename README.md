@@ -1,6 +1,6 @@
 # Bookcellar
 
-imagine letterboxd but for books
+it is like letterboxd but for books
 
 grab a book like a bottle of wine
 

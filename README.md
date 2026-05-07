@@ -1,4 +1,4 @@
-# bookcellar
+# Bookcellar
 
 imagine letterboxd but for books
 
